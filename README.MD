@@ -7,7 +7,7 @@
 #  System Requirements
 
   * [Merchant Account](https://merchant.coinzone.com/signup?source=cs-cart)
-  * [CS-Cart](http://www.cs-cart.com/requirements.html) 4.0+
+  * [CS-Cart](http://www.cs-cart.com/requirements.html)
   * PHP 5.4+
   * Curl PHP Extension
   * JSON PHP Extension
