@@ -25,7 +25,7 @@ Find "Coinzone" & click [Install]
 
 3. Go to your Administration -&gt; Payment Methods -&gt; Add New Payment Method -&gt; Fill in the form & Select 'Coinzone' for `Processor`. On the configure tab, fill in your Client Code and API Key. They can be found on the API tab of the Settings page in the [Coinzone Control Panel](https://merchant.coinzone.com/settings#apiTab).
 
-4. Don't have a Coinzone account? [Sign up for free](https://merchant.coinzone.com/signup?source=woocommerce)
+4. Don't have a Coinzone account? [Sign up for free](https://merchant.coinzone.com/signup?source=cs-cart)
 
 #  Support
 
