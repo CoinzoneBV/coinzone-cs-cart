@@ -16,7 +16,7 @@
 
 The current version of the cs-cart plugin is version 1.0. It is available either by
 cloning this repository or downloading the .zip file from the
-[download page]().
+[download page](https://github.com/CoinzoneBV/coinzone-cs-cart/archive/master.zip).
 
 1. Upload files to your CS-Cart installation.
 
