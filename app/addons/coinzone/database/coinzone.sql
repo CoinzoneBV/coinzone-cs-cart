@@ -1,0 +1,1 @@
+INSERT INTO cscart_payment_processors (processor, processor_script, processor_template, admin_template, callback, type) VALUES ('Coinzone', 'coinzone.php', 'views/orders/components/payments/cc_outside.tpl', 'coinzone.tpl', 'N', 'P');

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>coinzone</id>
+    <version>1.0</version>
+    <default_language>en</default_language>
+    <priority>105</priority>
+    <status>active</status>
+    <name>Coinzone</name>
+    <queries>
+        <item type="file">database/coinzone.sql</item>
+    </queries>
+</addon>
