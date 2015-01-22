@@ -17,7 +17,7 @@ if (defined('PAYMENT_NOTIFICATION')) {
         $signature = hash_hmac('sha256', $stringToSign, $processor_data['processor_params']['apiKey']);
         if ($signature !== $headers['signature']) {
             header("HTTP/1.0 400 Bad Request");
-            exit("Invalid callback " . $signature . '//' . $headers['signature']);
+            exit("Invalid callback");
         }
 
         switch($input->status) {
